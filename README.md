@@ -63,6 +63,8 @@ You will notice that when you first try to print the table, it will be misaligne
 
 You will need to find a way to enter an extra tab, `\t`, to the first several rows.
 
+HINT: After the first header row, `print('\tdecimal\tbinary\t\thex')`, all of the other rows have the same basic structure, so you will need to figure-out how to use some of the techniques we studied in Chapter 3 of GICP to repeatedly print-out similar rows.
+
 ## Rubric
 
 |  Criteria                    | Possible | Actual  | Notes |
