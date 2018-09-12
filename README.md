@@ -61,7 +61,7 @@ You will notice that when you first try to print the table, it will be misaligne
 |    9    |    0b1001    | |   0x9 |
 |    10    |    0b1010   | |   0xa |
 
-You will need to find a way to enter an extra tab, `\t`, to the first seven rows.
+You will need to find a way to enter an extra tab, `\t`, to the first several rows.
 
 ## Rubric
 
